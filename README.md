@@ -1,4 +1,4 @@
-# Curling::Iron
+# CurlingIron
 
 Small library to convert RDFXML to JSON-LD
 
@@ -9,7 +9,7 @@ Just a joke from
 
 Add this line to your application's Gemfile:
 
-    gem 'curling-iron'
+    gem 'CurlingIron'
 
 And then execute:
 
@@ -17,7 +17,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install curling-iron
+    $ gem install CurlingIron
 
 ## Usage
 
