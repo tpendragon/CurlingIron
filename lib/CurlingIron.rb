@@ -1,4 +1,5 @@
 require "CurlingIron/version"
+require 'linkeddata'
 
 module CurlingIron
   def curl(xml_content)
